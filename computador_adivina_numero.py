@@ -1,6 +1,5 @@
 # PROYECTO: COMPUTADOR ADIVINA EL NÚMERO
 # Autor: Aldair Guallimba
-# Descripción:
 # El usuario piensa un número entre 0 y 50.
 # La computadora intenta adivinarlo según las
 # respuestas del usuario: mayor, menor o correcto.
