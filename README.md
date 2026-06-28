@@ -4,13 +4,13 @@
 
 El proyecto consiste en la creación de un sistema interactivo en Python donde el usuario piensa un número entre 0 y 50 y la computadora intenta adivinarlo utilizando estructuras lógicas y repetitivas, el proyecto permitió aplicar los conocimientos adquiridos.
 
----
+
 
 ## Descripción del problema
 
 El problema planteado consiste en desarrollar un programa que permita a la computadora adivinar un número pensado por el usuario, para ello, el sistema debe realizar intentos, recibir respuestas del usuario y tomar decisiones hasta encontrar el número correcto, además, el programa debe validar las entradas para evitar errores y garantizar un correcto funcionamiento.
 
----
+
 
 # Objetivos
 
@@ -26,7 +26,7 @@ Desarrollar un programa en Python que permita a la computadora adivinar un núme
 * Organizar y documentar adecuadamente el código fuente.
 * Utilizar herramientas de desarrollo como Python, Visual Studio Code y GitHub.
 
----
+
 
 ## Funcionalidades del Sistema
 
@@ -39,7 +39,7 @@ Desarrollar un programa en Python que permita a la computadora adivinar un núme
 * Mensajes personalizados según la cantidad de intentos realizados.
 * Control de errores para evitar respuestas inconsistentes.
 
----
+
 
 ## Relación con los Contenidos de la Asignatura
 
@@ -55,7 +55,7 @@ Este proyecto se relaciona directamente con los contenidos estudiados en la asig
 * Validación de datos.
 * Comentarios y documentación del código.
 
----
+
 
 ## Explicación del Sistema Desarrollado
 
@@ -63,19 +63,19 @@ El programa inicia mostrando un menú principal con dos opciones: iniciar el jue
 
 Además, el sistema almacena el historial de intentos, contabiliza las partidas jugadas y registra el mejor récord obtenido.
 
----
+
 
 ## Estructura Lógica del Programa
 
 El sistema utiliza estructuras repetitivas `while` para mantener activo el menú principal y controlar el desarrollo del juego. También emplea estructuras condicionales `if`, `elif` y `else` para validar las respuestas ingresadas por el usuario y determinar el comportamiento del programa en cada situación.
 
----
+
 
 ## Organización del Código
 
 El código fue desarrollado de manera secuencial y estructurada, incorporando comentarios en las secciones más importantes para facilitar su comprensión y mantenimiento, esto permite que cualquier usuario pueda entender fácilmente el funcionamiento del sistema.
 
----
+
 
 ## Uso de Herramientas de Desarrollo
 
@@ -86,7 +86,7 @@ Para el desarrollo del proyecto se utilizaron las siguientes herramientas:
 * GitHub
 * OBS Studio
 
----
+
 
 ## Cronograma de Aprendizaje y Desarrollo del Proyecto
 
@@ -106,7 +106,7 @@ Para el desarrollo del proyecto se utilizaron las siguientes herramientas:
 
 La tecnología desempeña un papel fundamental en la solución de problemas cotidianos mediante el desarrollo de software. A través de este proyecto se pudo evidenciar cómo la programación permite automatizar procesos y simular la toma de decisiones. Asimismo, el uso de herramientas tecnológicas facilita el aprendizaje, fomenta el pensamiento lógico y contribuye al desarrollo de soluciones innovadoras aplicables en diferentes áreas del conocimiento.
 
----
+
 
 ## Autor
 
