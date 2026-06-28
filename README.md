@@ -104,7 +104,7 @@ Para el desarrollo del proyecto se utilizaron las siguientes herramientas:
 
 ## Reflexión sobre el Impacto de la Tecnología
 
-La tecnología desempeña un papel fundamental en la solución de problemas cotidianos mediante el desarrollo de software. A través de este proyecto se pudo evidenciar cómo la programación permite automatizar procesos y simular la toma de decisiones. Asimismo, el uso de herramientas tecnológicas facilita el aprendizaje, fomenta el pensamiento lógico y contribuye al desarrollo de soluciones innovadoras aplicables en diferentes áreas del conocimiento.
+La tecnologia en la actualidad desempeña un papel fundamental en la solucion de problemas mediante desarrollo de software, en este proyecto se pudo evidenciar como la programacion nos puede ayduar a realizar desde la cosa mas minima hasta algo mucho mas grande, tambien el uso de herramientas tecnologicas facilita el aprendizaje y contriubuye al desarrollo de soluciones.
 
 
 ## Autor
